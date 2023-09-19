@@ -1,0 +1,334 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.pak {
+    background-color: rgb(250, 115, 5);
+    /* position: fixed; */
+}
+
+.def {
+    margin-left: 150px;
+}
+
+.form {
+    background-color: white;
+    position: relative;
+    padding-right: 200px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    border-radius: 30px;
+    border: none;
+}
+
+
+.fa-magnifying-glass {
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 14px;
+    font-size: 12px;
+    color: green;
+}
+
+.lol {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.pro-2 {
+    height: 80vh;
+    background-color: rgb(241, 113, 7);
+}
+
+.child {
+    padding-left: 250px;
+    padding-top: 100px;
+}
+
+.bot {
+    padding: 14px;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 12px, 12px, 22px;
+}
+
+.cent {
+    text-align: center;
+}
+
+.cent h1 {
+    font-weight: 400;
+}
+
+.cent p {
+    margin-top: 30px;
+    font-size: 19px;
+    color: gray;
+}
+
+.car {
+    justify-content: space-evenly;
+    margin-left: 100px;
+}
+
+.car .card {
+    border: rgb(241, 113, 7) 3px solid;
+}
+
+.car .card i {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(241, 113, 7);
+}
+
+.car .card h5 {
+    text-align: left;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.car .card p {
+    justify-content: center;
+    font-size: 18px;
+}
+
+.ist {
+    background-color: whitesmoke;
+}
+
+.ligh {
+    background-color: white;
+    margin-bottom: 50px;
+    justify-content: center;
+    width: 1150px;
+}
+
+.ligh:hover {
+    box-shadow: 6px 6px 12px gray;
+}
+
+.fa-calendar-days {
+    color: rgb(241, 113, 7);
+    margin-top: 20px;
+}
+
+.leg h3 {
+    font-weight: 400;
+    margin-left: 60px;
+}
+
+.leg p {
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: rgb(123, 123, 123);
+}
+
+.purp h4 {
+    color: purple;
+    margin-top: 50px;
+}
+
+.purp i {
+    color: rgb(108, 195, 224);
+}
+
+.purp p {
+    font-size: 18px;
+}
+
+.purp p:hover {
+    text-decoration: underline;
+}
+
+.bat {
+    padding-right: 26px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    margin-left: 50px;
+    box-shadow: 12px, 12px, 22px;
+}
+
+.bard {
+    justify-content: space-evenly;
+}
+
+.bord {
+    border: none;
+    text-align: center;
+}
+
+.bord:hover {
+    box-shadow: 4px 4px 8px gray;
+}
+
+.bord i {
+    margin: 20px;
+    text-align: left;
+    font-size: 30px;
+    color: rgb(241, 113, 7);
+}
+
+.bord img {
+    width: 250px;
+    margin-left: 90px;
+}
+
+.ball {
+    padding: 15px;
+    border-radius: 10px;
+    width: 330px;
+    margin-left: 50px;
+    box-shadow: 12px, 12px, 22px;
+}
+
+.bend {
+    background-color: rgb(241, 113, 7);
+    color: white;
+    width: 1100px;
+}
+
+.bend h1 {
+    font-weight: 700;
+}
+
+.bend img {
+    box-shadow: 3px 3px 5px 5px rgb(79, 79, 79);
+}
+
+.bend button {
+    margin: 30px;
+    margin-left: 160px;
+}
+
+.icon {
+    justify-content: right;
+    margin-left: 190px;
+    margin-top: 60px;
+}
+
+.hhh{
+    margin-left: 150px;
+    font-weight: 400;
+}
+
+.icon i {
+    color: white;
+    background-image:linear-gradient(227deg, white, rgb(246, 166, 18), rgb(250, 154, 75)) ;
+    padding: 22px;
+    border-radius: 50%;
+    box-shadow: white 4px 4px 6px;
+    position: absolute;
+}
+
+.caror {
+    width: 900px;
+    z-index: -1;
+    border: 3px solid rgb(246, 134, 43);
+    box-shadow: rgb(250, 115, 5, 0.32) 3px 3px 6px 6px inset;
+    position: relative;
+}
+
+.caror h3 {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.caror p {
+    color: rgb(116, 114, 114);
+}
+
+.imam h2{
+    text-align: center;
+}
+
+.imam p{
+    color: gray;
+    margin-left: 180px;
+}
+
+.captain{
+    margin-left: 220px;
+    color: rgb(88, 88, 88);
+}
+
+.fa-circle-dot{
+    color: rgb(246, 134, 43);
+}
+
+.how{
+    text-align: center;
+}
+
+.how h4{
+    font-weight:400;
+}
+
+
+.skin{
+    background-color: rgb(248, 238, 225);
+    width: 1200px;
+}
+
+.skin h3{
+    font-weight: 400;
+}
+
+.line{
+    word-spacing: 5px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+
+.pond{
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 4px 4px rgb(202, 202, 202);
+}
+
+.fa-quote-left{
+    color:rgb(246, 134, 43);
+    font-size: 50px;
+}
+
+.colin{
+    width: 350px;
+}
+
+.colin2{
+    width: 400px;
+}
+
+footer{
+    background-color: rgb(241, 113, 7);
+    height: 50vh;
+    text-align: center;
+}
+
+.list{
+    border-top:1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.list ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 30px;
+    font-weight: 600;
+    color: rgb(100, 99, 99);
+}
+
+.less ul li{
+list-style: none;
+display: inline;
+}
+
+.less i:hover{
+    color: gray;
+}
